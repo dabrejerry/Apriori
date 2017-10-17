@@ -77,9 +77,7 @@ public class Apriori {
 				tempItemSetValue.add(itemSet.get(j).get(0));
 				tempItemSet.add(tempItemSetValue);
 			}
-
 		}
-
 		return tempItemSet;
 	}
 
